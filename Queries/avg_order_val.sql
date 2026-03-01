@@ -1,0 +1,1 @@
+select round((sum(total_price)/count(distinct order_id)),2) as Avg_order_val from pizza_sales
