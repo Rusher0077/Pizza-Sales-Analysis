@@ -1,2 +1,12 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.sql text eol=lf
+# Enforce LF for all text/code files
+*.sql    text eol=lf
+*.py     text eol=lf
+*.txt    text eol=lf
+*.md     text eol=lf
+*.csv    text eol=lf
+
+# Optional: auto-detect everything else
+*        text=auto
