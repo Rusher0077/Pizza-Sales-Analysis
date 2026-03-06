@@ -13,6 +13,11 @@ The analysis focuses on answering important business questions such as:
 - What are the best and worst performing pizzas?
 
 ---
+##  Dashboard Preview
+
+![Dashboard Preview](Dashboard/dashboard.png)
+
+---
 
 ##  Business Objectives
 
@@ -232,20 +237,15 @@ Dashboard components include:
 
 ---
 
-##  Dashboard Preview
-
-![Pizza Sales Dashboard](dashboard.png)
----
-
 ##  Project Structure
 ```
 Pizza-Sales-Analysis
-│
-├── Queries
-│   └── SQL analysis queries
 |
 ├── Dashboard
 │   └── dashboard.png
+|
+├── Queries
+│   └── SQL analysis queries
 |
 ├── pizza_sales.csv
 │   └── dataset
@@ -281,4 +281,13 @@ Additional insights:
 
 ### Pallab Dey
 
-GitHub: https://github.com/Rusher0077
+Thanks for checking out my Pizza Sales Analysis project!  
+If you like it, feel free to ⭐ the repo or fork it for your own use.
+
+- **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-Rusher0077-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rusher0077)
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pallab%20Dey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallabdey007/)
+- **Email**: pallabdey21@gmail.com
+
+Open to feedback, collaboration, or just chatting about data analysis / BI projects 🍕📊
+
+© 2026 Pallab Dey
